@@ -1,2 +1,5 @@
 # Aimed login screen
- aimed lab assigment
+ npm init -y
+ npm i
+ npm run dev
+ 
